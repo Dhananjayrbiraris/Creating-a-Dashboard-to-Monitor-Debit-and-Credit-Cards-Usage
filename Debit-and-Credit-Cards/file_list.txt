@@ -1,0 +1,44 @@
+01_Integer_floats_boolean.ipynb
+Advanced Excel.pdf
+Apr_2022.xlsx
+astronauts.csv
+astronauts.ipynb
+Aug_2022.xlsx
+Country-Code.xlsx
+covid_jpn_metadata.csv
+Data_Science_Internship - Dump.csv
+Data_Science_Internship - Dump.ipynb
+Dec_2022.xlsx
+EDA and visualization for novel COVID19 dataset.csv
+EDA and visualization for novel COVID19 dataset.ipynb
+Excel.xlsx
+excel_file.xlsx
+Feb_2023.xlsx
+geckodriver.log
+global_superstore_2016.xlsx
+guvi.ipynb
+IMDB_DATA_kaggle.ipynb
+intern dataset.csv
+intern dataset.ipynb
+Jan_2023.xlsx
+Jul_2022.xlsx
+Jun_2022.xlsx
+Mar_2023.xlsx
+May_2022.xlsx
+movies_initial.csv
+movies_initial.csv.zip
+Nov_2022.xlsx
+Oct_2022.xlsx
+Pandas - Q1 Sales.csv
+Pandas.ipynb
+PinkPanther60.wav
+Python Practice.ipynb
+Sept_2022.xlsx
+Test(16 March 2023).ipynb
+Untitled.ipynb
+Untitled1.ipynb
+Untitled2.ipynb
+Untitled3.ipynb
+weather_by_cities.xlsx
+weather_data.csv
+Working with Image in matplotlib .ipynb
